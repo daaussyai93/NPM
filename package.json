@@ -1,0 +1,24 @@
+{
+  "name": "NPM",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000N\u0000P\u0000M\u0000\r\u0000 \u0000\r\u0000 \u0000B\u0000a\u0000s\u0000i\u0000c\u0000 \u0000N\u0000P\u0000M\u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daaussyai93/NPM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daaussyai93/NPM/issues"
+  },
+  "homepage": "https://github.com/daaussyai93/NPM#readme",
+  "dependencies": {
+    "express": "4.16.3",
+    "mocha": "^5.2.0"
+  }
+}
